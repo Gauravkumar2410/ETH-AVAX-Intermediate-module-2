@@ -6,12 +6,6 @@
 
 This is an intuitive web3 application created using HTML, CSS, and Solidity. It leverages the power of Ethereum networks to provide a decentralized banking experience. With this dApp, users can easily deploy a contract and transfer Ether and personalize their account names. The application is built using Solidity smart contracts, the powerful Ethers.js library, and uses the user-friendly MetaMask wallet extension.
 
-### Application Preview 
-
-[![Web3 Local Bank](https://i.postimg.cc/qqp66sJg/FULL.png)](https://postimg.cc/5Yk2ZFFM)
-
-[![Transfer Preview](https://i.postimg.cc/gj4XVxjs/USE.png)](https://postimg.cc/gLX2dkvL)
-
 ---
 
 
